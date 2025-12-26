@@ -1,0 +1,1 @@
+# PrivilegeDet-Leveraging-Annotations-as-Privileged-Information-for-UAV-Object-Detection
